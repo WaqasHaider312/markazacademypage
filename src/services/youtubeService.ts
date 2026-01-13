@@ -1,4 +1,3 @@
-
 interface YouTubeVideo {
   id: string;
   title: string;
@@ -26,6 +25,7 @@ const MARKAZ_VIDEO_DATA = [
   { videoId: 'pfWcadLIJXg', title: 'Reselling Ke Liye Best Social Media Platform Konsay Hai', section: 'basics' as const },
   
   // Intermediate - For users growing their knowledge
+  { videoId: 'G1ZXohPQtMc', title: 'Markaz Verification Kese kerta hai aur Markaz App verification kyun kerti hai?', section: 'intermediate' as const },
   { videoId: 'qKlmJOKRj-g', title: 'Order Delivery Ki Reattempt Kaisay Karain?', section: 'intermediate' as const },
   { videoId: '0aySnJucCcE', title: 'How To Use New Address Section in Markaz App', section: 'intermediate' as const },
   { videoId: 'scAOFt_pJ7U', title: 'How To Use The New Helpline in Markaz App', section: 'intermediate' as const },
